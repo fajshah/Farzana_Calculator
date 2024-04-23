@@ -1,0 +1,20 @@
+{
+  "name": "faj-zakaat-calculator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "zakaat.js",
+  "type": "module",
+  "bin": "zakaat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
